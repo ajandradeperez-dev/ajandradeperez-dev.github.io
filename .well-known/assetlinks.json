@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ajandradeperez.estudio",
+      "sha256_cert_fingerprints": ["8E:59:83:A2:88:16:BA:29:40:91:9D:3F:67:0F:05:55:6B:9A:DD:A0:7A:70:C5:BC:76:80:B8:6F:BA:4B:E6:39"]
+    }
+  }
+]
